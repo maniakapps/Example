@@ -1,0 +1,7 @@
+wolf
+deer
+person
+guy
+girl
+dog
+cat
